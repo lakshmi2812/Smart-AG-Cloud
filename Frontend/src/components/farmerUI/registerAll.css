@@ -1,0 +1,37 @@
+.btn {
+  background-color: #ffa200;
+  border-color: black;
+  width: 300px;
+  border-radius: 10px;
+  border-color: black;
+  font-family: garamond;
+  font-size: 25px;
+}
+.cont1 {
+  background-size: cover;
+  justify-content: center;
+}
+.loginf {
+  border-style: bold;
+  border-color: black;
+  border-radius: 15px;
+  padding-left: 20px;
+  justify-content: center;
+  padding-top: 10px;
+  width: 750px;
+
+  /*
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translateX(-50%) translateY(-50%);*/
+}
+.form-control1 {
+  width: 350px;
+  height: 40px;
+  border-radius: 10px;
+  border-color: black;
+
+  padding-left: 20px;
+  margin-bottom: 5px;
+}

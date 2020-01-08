@@ -1,0 +1,10 @@
+{
+    "development":{
+        "database": "smartag_development",
+        "host": "localhost"
+    },
+    "test":{
+        "database": "smartag_test",
+        "host": "localhost"
+    }
+}
